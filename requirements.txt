@@ -1,0 +1,8 @@
+streamlit==1.67.0
+plotly==5.24.1
+pandas==2.2.3
+numpy==2.4.6
+scikit-learn==1.6.1
+xgboost==3.4.1
+imbalanced-learn==0.14.2
+joblib==1.6.0

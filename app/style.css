@@ -1,0 +1,52 @@
+
+<style>
+.stApp {
+    background: #080B12;
+    color: #F1F5F9;
+}
+
+[data-testid="stSidebar"] {
+    background: #0D111B;
+    border-right: 1px solid #202A3A;
+}
+
+h1, h2, h3 {
+    color: #F8FAFC;
+}
+
+p, label {
+    color: #AAB4C5;
+}
+
+div.stButton > button {
+    background: linear-gradient(90deg, #00C6FF, #7C3AED);
+    color: white;
+    border: none;
+    border-radius: 9px;
+    padding: 0.6rem 1.2rem;
+    font-weight: 600;
+}
+
+div.stButton > button:hover {
+    border: 1px solid #00E5FF;
+    color: white;
+}
+
+[data-testid="stFileUploader"] {
+    background: #111827;
+    border: 1px dashed #00C6FF;
+    border-radius: 12px;
+    padding: 15px;
+}
+
+[data-testid="stMetric"] {
+    background: #121A29;
+    border: 1px solid #263449;
+    padding: 16px;
+    border-radius: 12px;
+}
+
+hr {
+    border-color: #263449;
+}
+</style>
